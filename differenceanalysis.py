@@ -1,3 +1,5 @@
+#gitで変わったかの確認
+
 import PySimpleGUI as sg
 import os
 import csv
